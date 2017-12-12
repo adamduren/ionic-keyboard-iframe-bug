@@ -1,3 +1,11 @@
 page-home {
+  // margin to highlight hidden input issue
+  .scroll-content > div {
+    padding-top: 325px;
+  }
 
+  iframe {
+    height: 75px;
+    border: 1px solid black;
+  }
 }
